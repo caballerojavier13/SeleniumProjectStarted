@@ -10,7 +10,7 @@
 
 Luego de instalar las dependencias y de clonar el repositorio es necesario instalar las dependencias, para ello se debe ejecutar el siguiente comando:
 
-    `mvn install`
+    mvn install
 
 El programa sólo descargará los archivos necesarios. Así que puedes tomarte un café o un té mientras.
 
@@ -20,7 +20,7 @@ Una vez que termina de instalar las dependencias, Maven ejecutará todas las pru
 
 Para ejecutar todas pruebas es necesario ejecutar el siguiente comando:
 
-    `nvm test`
+    nvm test
 
 ### Directorio de Test
 
